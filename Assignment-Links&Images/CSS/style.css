@@ -18,6 +18,11 @@
   font-family: Comic sans MS, Helvetica, sans-serif;
 }
 
+#shows {
+  background: #AFD275;
+  font-family: Comic sans MS, Helvetica, sans-serif;
+}
+
 h1 {
   color: navy;
   text-align: center;
@@ -94,5 +99,9 @@ h3.places{
 }
 
 h3.games{
+  text-align: left;
+}
+
+h3.shows{
   text-align: left;
 }
