@@ -8,6 +8,11 @@
   font-family: Comic sans MS, Helvetica, sans-serif;
 }
 
+#places {
+  background: #8D8741;
+  font-family: Comic sans MS, Helvetica, sans-serif;
+}
+
 h1 {
   color: navy;
   text-align: center;
@@ -16,11 +21,13 @@ h1 {
 h2 {
   color: mediumslateblue;
 }
+
 h3 {
   color: navy;
   text-align: center;
   font-size: 20px;
 }
+
 h4 {
   color: brown;
 }
@@ -68,4 +75,15 @@ button{
 ul{
   display: table;
   margin: auto;
+}
+
+ol{
+  display: table;
+  margin: auto;
+  font: Comic sans MS;
+  font-size: 20px;
+}
+
+h3.places{
+  text-align: left;
 }
