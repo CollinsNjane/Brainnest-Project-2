@@ -30,7 +30,6 @@
 }
 
 .header {
-
   padding: 0px 150px;
   width: auto;
   max-width: 100%;
@@ -38,29 +37,25 @@
   background-color: #1F2937;
 }
 
-.topNav {
-    
+.topNav { 
   padding-top: 25px;
   display: flex;
   justify-content: space-between;
 }
 
 .navbarLogo {
-
   text-decoration: none;
   font-size: 24px;
   color: #F9FAF8;
 }
 
 .headerLinks {
-
   display: flex;
   justify-content: space-between;
   align-items: center;  
 }
 
 .headerLinks a{
-
   margin-right: 19px;
   font-size: 18px;
   color: #E5E7EB;
@@ -68,20 +63,17 @@
 
 }
 
-.headerContainer {
-    
+.headerContainer {  
   width: auto;
   max-width: 100%;
   height: auto;
   max-height: 230px;
   margin-top: 110px;
   display: flex;
-  
   background-color: #1F2937;
 }
 
-.headerCol1 {
-    
+.headerCol1 {  
   background-color:#1F2937;
   width: 50%;
   height: auto;
@@ -90,7 +82,6 @@
 }
 
 .headerCol1 h1 {
-  
   font-size: 48px;
   font-weight: 800px;
   color: #F9FAF8;
@@ -111,7 +102,6 @@
   height: 40px;
   border: none;
   border-radius: 8px;
-  
   font-size: 20px;
   background-color: #3882F6;
   color: #E5E7EB;
@@ -123,13 +113,11 @@
 }
 
 .placeholder {
-
   display: flex;
   align-items: center;
   justify-content: center;
   width: 100%;
   min-height: 230px;
-
   background-color: #6d747d;
   color: #E5E7EB;
   font-size: 18px;
@@ -150,34 +138,29 @@
 }
 
 .randomInfoContainer {
-
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-
   width: auto;
   height: 400px;
   margin-top: 50px;
 }
 
-.randomInfoContainer h1 {
-    
+.randomInfoContainer h1 {  
   font-size: 36px;
   font-weight: 800px;
   color: #1F2937;
 }
 
 .random-information {
-
   width: 1380px;
   height: 300px;
   display: flex;
   justify-content: center;
 }
 
-.information {
-    
+.information { 
   width: 230px;
   height: auto;
   padding-top: 40px;
@@ -194,7 +177,6 @@
 }
 
 .information-item {
-
   border-radius: 15px;
   border: 3px solid #3882F6;
   width: 170px;
@@ -214,7 +196,6 @@
 }
 
 .quoteMessage {
-
   width: auto;
   height: auto;
 }
@@ -227,7 +208,6 @@
 }
 
 .quoteContainer .author {
-
   width: 800px;
   height: 50px;
   display: flex;
@@ -236,7 +216,6 @@
 }
 
 .callActionContainer {
-
   width: auto;
   max-width: 100%;
   height: 300px;
@@ -246,7 +225,6 @@
 }
 
 .smallContainer .textColumn {
-
   width: auto;
   height: auto;
   margin-right: 130px;
@@ -256,15 +234,13 @@
 
 .smallContainer .textColumn p { color: #dddfe4;; }
 
-.smallContainer {
-    
+.smallContainer {  
     background-color: #3882F6;
     border-radius: 15px;
     width: 900px;
     height: 120px;
     display: flex;
-    flex-direction: row;
-    
+    flex-direction: row;    
     justify-content: center;
     align-items: center;
 }
@@ -275,7 +251,6 @@
 }
 
 .btnColumn button {
-
   width: 130px;
   height: 40px;
   border: none;
@@ -287,7 +262,6 @@
 }
 
 footer {
-
   background-color: #1F2937;
   width: auto;
   max-width: 100%;
